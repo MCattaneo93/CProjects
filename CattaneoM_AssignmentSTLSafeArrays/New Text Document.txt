@@ -1,0 +1,2 @@
+I hard-coded value for safeArray (51 - 100), and filled it with "Random" values, searched "random" numbers
+and out put the above. Afterwards sorted, and confirmed sort with is_Sorted.  You can change the hardcoded values as needed

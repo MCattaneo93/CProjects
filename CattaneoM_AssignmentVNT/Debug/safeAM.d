@@ -1,0 +1,1 @@
+safeAM.o: ../safeAM.cpp
